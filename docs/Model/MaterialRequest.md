@@ -1,0 +1,9 @@
+# # MaterialRequest
+
+## Properties
+
+Name | Type | Description | Notes
+------------ | ------------- | ------------- | -------------
+**property_sets** | [**\OpenAPI\Client\Model\PropertySetRequest[]**](PropertySetRequest.md) |  |
+
+[[Back to Model list]](../../README.md#models) [[Back to API list]](../../README.md#endpoints) [[Back to README]](../../README.md)

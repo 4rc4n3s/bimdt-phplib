@@ -1,0 +1,13 @@
+# # PatchedSystemRequest
+
+## Properties
+
+Name | Type | Description | Notes
+------------ | ------------- | ------------- | -------------
+**uuid** | **string** |  | [optional]
+**name** | **string** | Name of the system | [optional]
+**object_type** | **string** |  | [optional]
+**description** | **string** |  | [optional]
+**elements** | **string[]** |  | [optional]
+
+[[Back to Model list]](../../README.md#models) [[Back to API list]](../../README.md#endpoints) [[Back to README]](../../README.md)
